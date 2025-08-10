@@ -14,8 +14,8 @@ window._config = {
   // These settings are required to connect your app to your AWS User Pool.
   // Replace the placeholder values with your actual AWS Cognito details.
   cognito: {
-    userPoolId: 'us-east-1_ceSLVZZU8', // e.g., 'us-east-2_uXBoGSpAb'
-    userPoolClientId: '5dmn9og3r02qjqlrt93cdd920f', // e.g., '25ddkmj4v6hfsfvrhupfi7n4hv'
+    userPoolId: 'us-east-1_GikKTTW47', // e.g., 'us-east-2_uXBoGSpAb'
+    userPoolClientId: '4accoo9f1pm5bngssr94sjiksl', // e.g., '25ddkmj4v6hfsfvrhupfi7n4hv'
     region: 'us-east-1', // e.g., 'us-east-2'
   },
 
@@ -26,4 +26,5 @@ window._config = {
     invokeUrl: '', // e.g., 'https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod'
   },
 };
+
 
